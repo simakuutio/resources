@@ -6,7 +6,7 @@ Saat oman blogisi listalle \(tai pois sieltä\) tekemällä pull requestin [kood
 
 RSS-feed on vapaaehtoinen, mutta suositeltava, koska monet tykkäävät käyttää RSS-lukijoita blogien seuraamiseen.
 
-{% file src=".gitbook/assets/subscriptions.xml" caption="Voit tilata kaikki blogit kerralla OPML-formaatissa" %}
+{% file src=".gitbook/assets/koodiklinikkalaisten-blogit-opml.xml" caption="Kaikki allaolevat blogit OPML-formaatissa" %}
 
 <table>
   <thead>
@@ -126,6 +126,33 @@ RSS-feed on vapaaehtoinen, mutta suositeltava, koska monet tykkäävät käyttä
       <td style="text-align:left">Ohjelmistokehitykseen liittyvi&#xE4; juttuja ja linkkej&#xE4;, DevOps,
         infosec, cloud painotuksella.</td>
     </tr>
+    <tr>
+      <td style="text-align:left">Matsu</td>
+      <td style="text-align:left"><a href="https://matsu.fi/">URL</a>
+      </td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left">Kirjoitan omista kirjastoista, kokemuksista erilaisten p&#xE4;h&#xE4;&#xE4;npistosten
+        aikaansaannosten kanssa sek&#xE4; yleisesti devaamisesta</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Timi Wahalahti</td>
+      <td style="text-align:left"><a href="https://sipp.is/blog">URL</a>
+      </td>
+      <td style="text-align:left"><a href="https://sipp.is/feed">RSS</a>
+      </td>
+      <td style="text-align:left">V&#xE4;h&#xE4;n kaikenlaista maan ja taivaan v&#xE4;lilt&#xE4;. P&#xE4;&#xE4;osassa
+        kuitenkin yhteis&#xF6;t, WordPress ja tietotekniikkaan liittyv&#xE4;t aiheet.</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Jarno Virtanen</td>
+      <td style="text-align:left"><a href="https://buttondown.email/jajvirta">URL</a>
+      </td>
+      <td style="text-align:left"><a href="https://buttondown.email/jajvirta/rss">RSS</a>
+      </td>
+      <td style="text-align:left">Devaamisesta omia kokemuksia ja anekdootteja.</td>
+    </tr>
   </tbody>
 </table>
+
+
 
