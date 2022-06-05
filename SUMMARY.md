@@ -8,5 +8,6 @@
 * [Websovelluksia](softaa-web.md)
 * [YouTube-kanavia](youtube-channels.md)
 * [Koodiklinikkalaisten blogit](koodiklinikkalaisten-blogit.md)
-* [\#beer](beer.md)
-
+* [#beer](beer.md)
+* [VS Code -extensionit](vs-code-extensionit.md)
+* [RSS-lukijoita](rss-lukijoita.md)

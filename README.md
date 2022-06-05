@@ -1,5 +1,5 @@
 ---
-description: 'Kaiken maailman resursseja, joita Klinikka on hyväksi havainnut.'
+description: Kaiken maailman resursseja, joita Klinikka on hyväksi havainnut.
 ---
 
 # Etusivu
@@ -11,5 +11,6 @@ description: 'Kaiken maailman resursseja, joita Klinikka on hyväksi havainnut.'
 * [Webbisoftaa](softaa-web.md) - Softaa jota voi käyttää selaimella jokseenkin alustariippumattomasti.
 * [YouTube-kanavat](youtube-channels.md) - Erilaisia kanavia, jotka liittyvät mm. tietoturvaan ja DevOpsiin.
 * [Koodiklinikkalaisten blogit](koodiklinikkalaisten-blogit.md) - Listaus blogeista, joita jäsenet kirjoittavat
-* [\#beer](beer.md) - Listaus hyväksi todettuja ulkomaisia alkoholiverkkokauppoja
-
+* [#beer](beer.md) - Listaus hyväksi todettuja ulkomaisia alkoholiverkkokauppoja
+* [VS Code -extensionit](https://resources.koodiklinikka.fi/vs-code-extensionit) - Koodiklinikkalaisten suosikkilaajennokset
+* [RSS-lukijoita](rss-lukijoita.md) - klinikkalaisten suositukset RSS-lukijoista
